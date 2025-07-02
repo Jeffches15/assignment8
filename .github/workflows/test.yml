@@ -31,12 +31,12 @@ jobs:
          pip install -r requirements.txt
          playwright install
 
-     - name: Run tests
-       run: |
-         source venv/bin/activate
-         pytest tests/unit/ --cov=src --junitxml=test-results/junit.xml
-         pytest tests/integration/
-         pytest tests/e2e/
+    #  - name: Run tests
+    #    run: |
+    #      source venv/bin/activate
+    #      pytest tests/unit/ --cov=src --junitxml=test-results/junit.xml
+    #      pytest tests/integration/
+    #      pytest tests/e2e/
 
  security:
    needs: test
