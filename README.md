@@ -1,6 +1,17 @@
 # 📦 Project Setup
 
----
+## Git Hub Link:
+https://github.com/Jeffches15/assignment8/
+
+## Docker Hub Images
+https://hub.docker.com/r/jeffches15/assignment8
+
+## Screenshot of GitHub Actions Success
+![GitHub Actions](./screenshots/screenshot%20of%20github%20actions.png)
+
+## Screenshot of App Operational
+![App Operational](./screenshots/screenshot%20of%20app%20operational%20.png)
+
 
 # 🧩 1. Install Homebrew (Mac Only)
 
